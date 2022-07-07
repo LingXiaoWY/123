@@ -43,22 +43,22 @@
 ![自定义图片](C:\Users\86181\Downloads\uTools_1657166186879.png)
 
 
-'''c
+```c
 	#include<stdio.h>
 	int main()
 	{
 		printf("hello world!\n");
 		return 0;
 	}
-'''
+```
 
-'''python
+```python
 	import OS
-'''
+```
 
-'''bash
+```bash
 	sudo apt-get install tree
-'''
+```
 
 
 

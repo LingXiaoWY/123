@@ -29,9 +29,66 @@
 * 数学
 * 物理
   * 流体物理
-	*原子核物理
+	* 原子核物理
 
 1. 计算机科学
   1. 计算机基本构成
   2. 网络构成
+
+> 一级引用
+>> 二级引用
+>>> 三级引用
+[github](https://www.baidu.com "点击跳转到百度")
+
+![自定义图片](C:\Users\86181\Downloads\uTools_1657166186879.png)
+
+
+'''c
+	#include<stdio.h>
+	int main()
+	{
+		printf("hello world!\n");
+		return 0;
+	}
+'''
+
+'''python
+	import OS
+'''
+
+'''bash
+	sudo apt-get install tree
+'''
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
